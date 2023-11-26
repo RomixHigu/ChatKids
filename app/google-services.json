@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516451251242",
+    "project_id": "chatkids-69b22",
+    "storage_bucket": "chatkids-69b22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516451251242:android:6ab6216e87691d12e1bf53",
+        "android_client_info": {
+          "package_name": "com.android2023.chatkids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDjwX4aylhmJEiTkzfMxE1li1JU99qUYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
