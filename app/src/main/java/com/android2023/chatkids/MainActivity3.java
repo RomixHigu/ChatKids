@@ -40,6 +40,7 @@ public class MainActivity3 extends AppCompatActivity {
             public void onClick(View v) {
                 mqttManager.publishMessage(mensaje.getText().toString());
                 databaseReference.child("Mensaje").setValue(mensaje.getText().toString());
+                mensaje.setText("");
 
                 Intent intent = new Intent(MainActivity3.this,MainActivity4.class);
                 startActivity(intent);
